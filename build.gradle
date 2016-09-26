@@ -3,7 +3,7 @@ buildscript {
     repositories {
         jcenter()
     }
-    dependencies {
+    dependencies {kkk
         classpath 'com.android.tools.build:gradle:1.2.3'
     }
 }
